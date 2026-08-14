@@ -1,6 +1,6 @@
 {
   "schema": "ckeecx-zip-integrity-index-v1",
-  "generated_at_utc": "2026-08-14T15:41:44.136Z",
+  "generated_at_utc": "2026-08-14T14:44:09.781Z",
   "source": "Final/EVG",
   "algorithm": "SHA-256",
   "records": [
@@ -11,8 +11,6 @@
       "wix_dl_slug": "introduction-to-variable",
       "sha256": "F174204B8D35829116A4A908C79EE9C6FD5C00BAE1CA10145DF3155509CAEB0F",
       "size_bytes": 186620,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/introduction-to-variable.sha256.json"
     },
     {
@@ -22,8 +20,6 @@
       "wix_dl_slug": "integer",
       "sha256": "2E6E70E69067897159CE6B63DBA27040AC819DA0C99CD743A6E085E2DCE8FB95",
       "size_bytes": 187953,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/integer.sha256.json"
     },
     {
@@ -33,8 +29,6 @@
       "wix_dl_slug": "string-data-type",
       "sha256": "18805D8A625F31F61411AF39107412C2D8DDE433E491F7D5E8B56ADC103A05AE",
       "size_bytes": 189461,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/string-data-type.sha256.json"
     },
     {
@@ -44,8 +38,6 @@
       "wix_dl_slug": "boolean-data-type",
       "sha256": "10026EA54C51CA45A6B4BAA4BF6B0AAE7442EF1699CF4E7FC731E733515C3F20",
       "size_bytes": 179892,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/boolean-data-type.sha256.json"
     },
     {
@@ -55,8 +47,6 @@
       "wix_dl_slug": "date-and-time-data-types",
       "sha256": "275230922DD047611287048713ED351170925D16EC03E366E53A3A27A6C09204",
       "size_bytes": 187409,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/date-and-time-data-types.sha256.json"
     },
     {
@@ -66,8 +56,6 @@
       "wix_dl_slug": "color-data-type",
       "sha256": "0D8DB6021B47204B7280F53D0EC8243C557D5FC476FBBB924E00D9B034637EAF",
       "size_bytes": 179386,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/color-data-type.sha256.json"
     },
     {
@@ -77,8 +65,6 @@
       "wix_dl_slug": "type-casting",
       "sha256": "820924CBA9AA9E80CF894842679FAC226FD7F0A4ECE1DC91123414E0EF60E00A",
       "size_bytes": 180021,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/type-casting.sha256.json"
     },
     {
@@ -88,8 +74,6 @@
       "wix_dl_slug": "arithmetic-operators",
       "sha256": "9933FE32F9A2B0FC8ADCAD0D7F749D32F48DE323FA36C501CC49B3E1FA709C3C",
       "size_bytes": 179155,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/arithmetic-operators.sha256.json"
     },
     {
@@ -99,8 +83,6 @@
       "wix_dl_slug": "comparison-operators",
       "sha256": "7296D0BA9C00BD603F812FB545DF82EBBAC580147C9AE27B3A6AE00B9D587FEF",
       "size_bytes": 180099,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/comparison-operators.sha256.json"
     },
     {
@@ -110,8 +92,6 @@
       "wix_dl_slug": "logical-operators",
       "sha256": "AF60501E9C7D25524F7D8A013B282ECC25101D0F2F1748AA9E80B155125FBAA6",
       "size_bytes": 179460,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/logical-operators.sha256.json"
     },
     {
@@ -121,8 +101,6 @@
       "wix_dl_slug": "ternary-operator",
       "sha256": "CF6A19A838D4EC9730C42DFB836B1752EAEE73A9329CAE6158DEC5809224E642",
       "size_bytes": 178789,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/ternary-operator.sha256.json"
     },
     {
@@ -132,8 +110,6 @@
       "wix_dl_slug": "if-statement",
       "sha256": "FAD6CC94DA126B49CF5EDA15150C33817FE51B4997A6FD6197F8D95240DC7EE7",
       "size_bytes": 182615,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/if-statement.sha256.json"
     },
     {
@@ -143,8 +119,6 @@
       "wix_dl_slug": "if-in-function",
       "sha256": "FDE02177C41922958CCEA92D1676E221B7DCF90CEFD3A358E93C07393C5C082C",
       "size_bytes": 180220,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/if-in-function.sha256.json"
     },
     {
@@ -154,8 +128,6 @@
       "wix_dl_slug": "switch-statement",
       "sha256": "904B1B9C343089D4A65C3BC4D2848C4F4A0497D3D76717803B814430BA307CED",
       "size_bytes": 180266,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/switch-statement.sha256.json"
     },
     {
@@ -165,8 +137,6 @@
       "wix_dl_slug": "for-loop",
       "sha256": "DE6F5C84426FE9FC7398D4477B7B772092911CAE2E19FF7960050EAD9CDED8F2",
       "size_bytes": 181342,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/for-loop.sha256.json"
     },
     {
@@ -176,8 +146,6 @@
       "wix_dl_slug": "while-loop",
       "sha256": "BFD5EAD9C0E7948E15609694928DA710FF0FF6C0DBA02CD044E1A1FE2E97966A",
       "size_bytes": 180208,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/while-loop.sha256.json"
     },
     {
@@ -187,8 +155,6 @@
       "wix_dl_slug": "do-while-loop",
       "sha256": "FD599C48819E634051953052A10CBD9B775BA02851D48466AC15898DB8FF94A4",
       "size_bytes": 178612,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/do-while-loop.sha256.json"
     },
     {
@@ -198,8 +164,6 @@
       "wix_dl_slug": "break-and-continue-statements",
       "sha256": "95EDBBF96EECDD83BCE530ACCAA9F96750EB80791CF84E6DE96177F12F94E074",
       "size_bytes": 179008,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/break-and-continue-statements.sha256.json"
     },
     {
@@ -209,8 +173,6 @@
       "wix_dl_slug": "creating-custom-functions",
       "sha256": "CA2DBEAC6BC86490E141A41EE2A7902F4ACCD084B6843FFB7D65D2CF234E2130",
       "size_bytes": 193165,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/creating-custom-functions.sha256.json"
     },
     {
@@ -220,8 +182,6 @@
       "wix_dl_slug": "passing-parameter",
       "sha256": "77D488B3FEDA2AB5BA90A7AD015CDF78F24F5E6607D58A9E65C029A47F38F2B7",
       "size_bytes": 184140,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/passing-parameter.sha256.json"
     },
     {
@@ -231,8 +191,6 @@
       "wix_dl_slug": "function-overloading",
       "sha256": "258DDFD3786D9692B0907387AF5ABDE6F974A8A2C9458AD3EBDF928ACCC18F90",
       "size_bytes": 185078,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/function-overloading.sha256.json"
     },
     {
@@ -242,8 +200,6 @@
       "wix_dl_slug": "functions-callback",
       "sha256": "7FBFB85160C806486E8B293BC375576A86A54B89A9F48DF8E120A7C53CFD73FA",
       "size_bytes": 179288,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/functions-callback.sha256.json"
     },
     {
@@ -253,8 +209,6 @@
       "wix_dl_slug": "what-are-arrays",
       "sha256": "8DEF33AC1BC253FAF1F4436E5AB0E335E8527398018BA807855350125EB88F22",
       "size_bytes": 183627,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/what-are-arrays.sha256.json"
     },
     {
@@ -264,8 +218,6 @@
       "wix_dl_slug": "array-iteration",
       "sha256": "10EC0669C60D5A7C43C1119E2563F864ADC779C25C3F13079E1BDF05B9E1D382",
       "size_bytes": 181983,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/array-iteration.sha256.json"
     },
     {
@@ -275,8 +227,6 @@
       "wix_dl_slug": "free-arrays",
       "sha256": "97BEA94E3BAA440386A9E7D363A4666F906231C33FA7DF7DA70B817D93F82AFE",
       "size_bytes": 179116,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/free-arrays.sha256.json"
     },
     {
@@ -286,8 +236,6 @@
       "wix_dl_slug": "creating-custom-functions-and-libraries",
       "sha256": "B8B387062EA21884FBE4F7805A0D12910E49184A571EF8C6979F6C710B59055D",
       "size_bytes": 186417,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/creating-custom-functions-and-libraries.sha256.json"
     },
     {
@@ -297,8 +245,6 @@
       "wix_dl_slug": "constructors-and-destructors",
       "sha256": "0813D305C4CC22CFC79AEFF9708878B010DAA9B768FA565BAC130B266CAAB7A9",
       "size_bytes": 197574,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/constructors-and-destructors.sha256.json"
     },
     {
@@ -308,8 +254,6 @@
       "wix_dl_slug": "getters-and-setters",
       "sha256": "4D524484DDCA9E0C7EAFB7D888D14E26D3528D96F402947FD1DE40647640FB9F",
       "size_bytes": 184914,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/getters-and-setters.sha256.json"
     },
     {
@@ -319,8 +263,6 @@
       "wix_dl_slug": "this-keyword",
       "sha256": "9885F360C2B65591D679A159D9C7DA5768A6A08FB49100E98F970844297A0C7C",
       "size_bytes": 179890,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/this-keyword.sha256.json"
     },
     {
@@ -330,8 +272,6 @@
       "wix_dl_slug": "static-keyword",
       "sha256": "7D8000017024A55E11625D4825B96C8A7B16068A420917F8033556801CEE38F3",
       "size_bytes": 181505,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/static-keyword.sha256.json"
     },
     {
@@ -341,8 +281,6 @@
       "wix_dl_slug": "macros-in-mql4",
       "sha256": "A319B0B6C6AA5E3E7A73DC12FB6DDE6832D83FE425A38A5568D27D249B52729C",
       "size_bytes": 185183,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/macros-in-mql4.sha256.json"
     },
     {
@@ -352,8 +290,6 @@
       "wix_dl_slug": "user32dll-part1",
       "sha256": "5987D0A3495D0710BE435F08938D529DD128053EE67E4753A760961972FD6146",
       "size_bytes": 202023,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level1_Basic_MQL4_and_OOP/user32dll-part1.sha256.json"
     },
     {
@@ -363,8 +299,6 @@
       "wix_dl_slug": "simple-chart-object",
       "sha256": "1B4743E114F832F7435683C3B9A93E47EE8867A8CC531510EAA82A4E72442C25",
       "size_bytes": 199603,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/simple-chart-object.sha256.json"
     },
     {
@@ -374,8 +308,6 @@
       "wix_dl_slug": "simple-win-object",
       "sha256": "1B4743E114F832F7435683C3B9A93E47EE8867A8CC531510EAA82A4E72442C25",
       "size_bytes": 199603,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/simple-win-object.sha256.json"
     },
     {
@@ -385,8 +317,6 @@
       "wix_dl_slug": "complex-object",
       "sha256": "BB41AD4B09552F4D47516FEAD8CF47F7BA902A202DBB7D5A26B3F01510B57C49",
       "size_bytes": 184120,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/complex-object.sha256.json"
     },
     {
@@ -396,8 +326,6 @@
       "wix_dl_slug": "convert-coordinate",
       "sha256": "1FC94F8CF410F6C49B0BC5E94705322549C9FD811B57668A6FCE370113A3DFF4",
       "size_bytes": 183061,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/convert-coordinate.sha256.json"
     },
     {
@@ -407,8 +335,6 @@
       "wix_dl_slug": "method-of-object-binding",
       "sha256": "6E7F2BDB59DD7F34E35764061D1C1E9D1826F83A713C46D58E4DAA0AAB550050",
       "size_bytes": 180587,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/method-of-object-binding.sha256.json"
     },
     {
@@ -418,8 +344,6 @@
       "wix_dl_slug": "move-and-shift",
       "sha256": "821AA011731F20422B7B5518A0223688CF2953EDCDB64606F3B8EFE83D0E6EC6",
       "size_bytes": 184100,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/move-and-shift.sha256.json"
     },
     {
@@ -429,8 +353,6 @@
       "wix_dl_slug": "contains-method",
       "sha256": "31EC4A8726C9BD0535142DEFA749B8C48B6B835FB2B7041037BC78C390B1371B",
       "size_bytes": 184482,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/contains-method.sha256.json"
     },
     {
@@ -440,8 +362,6 @@
       "wix_dl_slug": "cbutton",
       "sha256": "BC1EC6010A845CB7D8D6C0E2E8BA6454A29AF14CA89847CA2C23156E4DDC79DE",
       "size_bytes": 186323,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/cbutton.sha256.json"
     },
     {
@@ -451,8 +371,6 @@
       "wix_dl_slug": "cedit",
       "sha256": "5327EBE249F266E15E0353D99B163209289C5EE8407A472B803F4945EFEC8554",
       "size_bytes": 184104,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/cedit.sha256.json"
     },
     {
@@ -462,8 +380,6 @@
       "wix_dl_slug": "cpanel",
       "sha256": "48023247BC32D46CFF6862AB937D75DB664ADCD93E1D0F258CD0A6448F4E2988",
       "size_bytes": 181384,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/cpanel.sha256.json"
     },
     {
@@ -473,8 +389,6 @@
       "wix_dl_slug": "ccontainer",
       "sha256": "3BAFDE4F7AC2274BD7C9DFD0660221B2F763DEE23D63637503B95D3F8292F082",
       "size_bytes": 181946,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/ccontainer.sha256.json"
     },
     {
@@ -484,8 +398,6 @@
       "wix_dl_slug": "cdialog",
       "sha256": "25F598CB778A240F7E7BB1DD1B3CBBE8D81F0AFEA1906A652F6FAC7853EA5330",
       "size_bytes": 181909,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/cdialog.sha256.json"
     },
     {
@@ -495,8 +407,6 @@
       "wix_dl_slug": "cappdialog",
       "sha256": "3160B47EB32E0C5291D8937DA55BA6F48B8FCCC638D753E486113574BB223E7A",
       "size_bytes": 181442,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/cappdialog.sha256.json"
     },
     {
@@ -506,8 +416,6 @@
       "wix_dl_slug": "ccombobox",
       "sha256": "E9DF9AC69ACFF1983D5C32638559FAB7D505F81EA47141CE146DF5055157C128",
       "size_bytes": 181488,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/ccombobox.sha256.json"
     },
     {
@@ -517,8 +425,6 @@
       "wix_dl_slug": "clistview",
       "sha256": "1F6371DD46CBDB8FD1A807456B1B8FF4C11D2DF47BD249BD24A6F64A2EE2E6A3",
       "size_bytes": 181787,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/clistview.sha256.json"
     },
     {
@@ -528,8 +434,6 @@
       "wix_dl_slug": "cspinedit",
       "sha256": "4F64C2C549B15F8CA1064EBB6DF2976CB6FEE191A38C93581A3020ED6A208912",
       "size_bytes": 181453,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/cspinedit.sha256.json"
     },
     {
@@ -539,8 +443,6 @@
       "wix_dl_slug": "ccalendar",
       "sha256": "9C42963E41AA9FF746745E313C400FF4525D6B2CED3F930911CF08F3ADA2A00C",
       "size_bytes": 188362,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/ccalendar.sha256.json"
     },
     {
@@ -550,8 +452,6 @@
       "wix_dl_slug": "cbitmapbutton",
       "sha256": "0EF4E6DA17A3A7E4E4DBFA2222EDCF0CAE3B61B61CA106A9CA8C96605AE48092",
       "size_bytes": 181088,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/cbitmapbutton.sha256.json"
     },
     {
@@ -561,8 +461,6 @@
       "wix_dl_slug": "custom-bitmap",
       "sha256": "CC56DF1CE49ACEAFE1DBEC472C40301A7B1E509197D5C5525F4F6674D0C80ED4",
       "size_bytes": 181139,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/custom-bitmap.sha256.json"
     },
     {
@@ -572,8 +470,6 @@
       "wix_dl_slug": "pixel-array-and-resource",
       "sha256": "0E2026D03F35D3D51762296D98850899DE583781B45BE36341F5FDF77F734EB7",
       "size_bytes": 181016,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/pixel-array-and-resource.sha256.json"
     },
     {
@@ -583,8 +479,6 @@
       "wix_dl_slug": "color-space-argb",
       "sha256": "3EF6D1056B91B5AA1F0529A4B9B827338ECCD0E50F32896E8971C66F2F785E0C",
       "size_bytes": 181074,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/color-space-argb.sha256.json"
     },
     {
@@ -594,8 +488,6 @@
       "wix_dl_slug": "assigned-to-cbitmap",
       "sha256": "6F74E5377220410C484DFDC7E57377A2C3323810FF95CC86CFB576984534F56E",
       "size_bytes": 201926,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/assigned-to-cbitmap.sha256.json"
     },
     {
@@ -605,8 +497,6 @@
       "wix_dl_slug": "zoom",
       "sha256": "6DAC71ECB60A5B74A7960C2A739AD0A99C0A30AC58F5234A848023C2737D9949",
       "size_bytes": 190651,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/zoom.sha256.json"
     },
     {
@@ -616,8 +506,6 @@
       "wix_dl_slug": "cke-moving-button",
       "sha256": "3EF7C88BABDFECA6645F66196E2B4875D6196C23F96E8BFBED134B8953C47DFA",
       "size_bytes": 515393,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/cke-moving-button.sha256.json"
     },
     {
@@ -627,8 +515,6 @@
       "wix_dl_slug": "move-container",
       "sha256": "4C3626CCD77D6A86E61254D75FA24C03D08ED5FA73957219C572BA1238ECDF95",
       "size_bytes": 384451,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/move-container.sha256.json"
     },
     {
@@ -638,8 +524,6 @@
       "wix_dl_slug": "cke-moving-bmp-button",
       "sha256": "C322FD2F60761B40931FD1F7A55805DB4F4A69334814A9A1E27AECF1602198FA",
       "size_bytes": 362111,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/cke-moving-bmp-button.sha256.json"
     },
     {
@@ -649,8 +533,6 @@
       "wix_dl_slug": "cke-appdialog",
       "sha256": "C9553D8970E352B2465A6A0E5B68B8EC43F67929A828185B414359C2D277F87B",
       "size_bytes": 506325,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/cke-appdialog.sha256.json"
     },
     {
@@ -660,8 +542,6 @@
       "wix_dl_slug": "cke-listview",
       "sha256": "E15BBEEEA0F78E51E6E9657AF522D85B80E677B7358136B508C0E7459C43E0AA",
       "size_bytes": 526877,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/cke-listview.sha256.json"
     },
     {
@@ -671,8 +551,6 @@
       "wix_dl_slug": "cke-slider",
       "sha256": "DD295A52B31876ACA7C6DADD7AA6477D30E0600822DFB1722E1C6C9012E40772",
       "size_bytes": 520313,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/cke-slider.sha256.json"
     },
     {
@@ -682,8 +560,6 @@
       "wix_dl_slug": "cke-chartcoordinate",
       "sha256": "6EBDBC07663614DE094E37E86F61D866757D5A1E04FA613164D7E27B9B544271",
       "size_bytes": 399869,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/cke-chartcoordinate.sha256.json"
     },
     {
@@ -693,8 +569,6 @@
       "wix_dl_slug": "delete-all-object-and-comment",
       "sha256": "8DD366A85823EDEBBD6B09600CA537E6EC355853983DEF20240AD3BEE87CD3EF",
       "size_bytes": 184615,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/delete-all-object-and-comment.sha256.json"
     },
     {
@@ -704,8 +578,6 @@
       "wix_dl_slug": "recall-object-position",
       "sha256": "FB1CFC98EC428D30912D02DB7EAB20D218157EF811DFFF89364C4F6FFB9FB4A2",
       "size_bytes": 850783,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/recall-object-position.sha256.json"
     },
     {
@@ -715,8 +587,6 @@
       "wix_dl_slug": "highlight-curtain",
       "sha256": "8EFF0CDEFE87936DECB75184F197BDE9A89892B3280B84D0D1B9778DCDD78862",
       "size_bytes": 510057,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/highlight-curtain.sha256.json"
     },
     {
@@ -726,8 +596,6 @@
       "wix_dl_slug": "short-cut-keys",
       "sha256": "15374BAD201B37AF4AFD65E50696B2ED3835CB04AEF0650E289C0D5FAFC10AE1",
       "size_bytes": 718787,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/short-cut-keys.sha256.json"
     },
     {
@@ -737,8 +605,6 @@
       "wix_dl_slug": "resize-button",
       "sha256": "D2F4B791BA1877D12D2ACD110E7C809B1ECF01D8D33BFB7128D2EC01CFED169C",
       "size_bytes": 713459,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/resize-button.sha256.json"
     },
     {
@@ -748,8 +614,6 @@
       "wix_dl_slug": "move-with-chart",
       "sha256": "20753D0A01E39867EF40FE0C3D9C1567042F1A41F6F4109F745BA46A94FDD27F",
       "size_bytes": 353605,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/move-with-chart.sha256.json"
     },
     {
@@ -759,8 +623,6 @@
       "wix_dl_slug": "chart-event-custom-in-depth",
       "sha256": "5EDF619C1873C6C0D58FE8DEE422CABDFA42952A112C51FBF6216814F59032DD",
       "size_bytes": 320287,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/chart-event-custom-in-depth.sha256.json"
     },
     {
@@ -770,8 +632,6 @@
       "wix_dl_slug": "harmonic-deployer-intro",
       "sha256": "B618B9774E41FD90234124464ACD1C773745DF1A18295516C3503EAA6FBD5AED",
       "size_bytes": 694641,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/harmonic-deployer-intro.sha256.json"
     },
     {
@@ -781,8 +641,6 @@
       "wix_dl_slug": "trade-panel-introduction",
       "sha256": "2BEB9EE159EB2FDB0DCAFD8BBDF8DF89190C1D697A941378C2535C39A63B9153",
       "size_bytes": 925363,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/trade-panel-introduction.sha256.json"
     },
     {
@@ -792,8 +650,6 @@
       "wix_dl_slug": "object-duplicator-introduction",
       "sha256": "1B686CFE09FA8D4092763FD9AACB22D97B4040084951A9826C1FCA1B09336DA6",
       "size_bytes": 315549,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/object-duplicator-introduction.sha256.json"
     },
     {
@@ -803,8 +659,6 @@
       "wix_dl_slug": "rr-calculator-intro",
       "sha256": "1214BC076A9DEAD05576FDB5B38CD6DACC3459CB6F64D214B84AA5F6D1BD7FBB",
       "size_bytes": 587791,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/rr-calculator-intro.sha256.json"
     },
     {
@@ -814,20 +668,7 @@
       "wix_dl_slug": "crosshair-info-introduction",
       "sha256": "86E522EF1D7FD95AA4891F801B692DD5A4666BEF914DAD6C578853433B15E986",
       "size_bytes": 538231,
-      "source": "Final/EVG",
-      "resource_kind": null,
       "record_path": "hashes/Level2_Graphic_Interface_Master/crosshair-info-introduction.sha256.json"
-    },
-    {
-      "file": "CKESpecialLib v1.10.zip",
-      "lesson": "CKESpecialLib v1.10",
-      "level": "Special Resources",
-      "wix_dl_slug": "ckespeciallib-v1-10",
-      "sha256": "812E45BAF6B82C8E84B7353A070F538087B218AA47903906131A8BC2A6CE168A",
-      "size_bytes": 4568980,
-      "source": "Special Resources",
-      "resource_kind": "standalone-zip",
-      "record_path": "hashes/Special Resources/ckespeciallib-v1-10.sha256.json"
     }
   ]
 }
