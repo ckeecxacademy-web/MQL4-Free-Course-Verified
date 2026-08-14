@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "What are Arrays.zip",
+  "algorithm": "SHA-256",
+  "sha256": "8DEF33AC1BC253FAF1F4436E5AB0E335E8527398018BA807855350125EB88F22",
+  "size_bytes": 183627,
+  "level": "Level1_Basic_MQL4_and_OOP",
+  "lesson": "What are Arrays",
+  "wix_dl_slug": "what-are-arrays",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level1_Basic_MQL4_and_OOP/01_Basic/12_Arrays and Structures/01_What are Arrays/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.054Z",
+  "record_path": "hashes/Level1_Basic_MQL4_and_OOP/what-are-arrays.sha256.json"
+}

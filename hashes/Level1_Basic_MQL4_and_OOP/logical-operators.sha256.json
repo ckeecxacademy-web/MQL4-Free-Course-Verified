@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Logical Operators.zip",
+  "algorithm": "SHA-256",
+  "sha256": "AF60501E9C7D25524F7D8A013B282ECC25101D0F2F1748AA9E80B155125FBAA6",
+  "size_bytes": 179460,
+  "level": "Level1_Basic_MQL4_and_OOP",
+  "lesson": "Logical Operators",
+  "wix_dl_slug": "logical-operators",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level1_Basic_MQL4_and_OOP/01_Basic/08_Operators and Expressions/03_Logical Operators/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.049Z",
+  "record_path": "hashes/Level1_Basic_MQL4_and_OOP/logical-operators.sha256.json"
+}

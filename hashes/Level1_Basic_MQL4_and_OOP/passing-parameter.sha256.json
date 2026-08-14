@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Passing parameter.zip",
+  "algorithm": "SHA-256",
+  "sha256": "77D488B3FEDA2AB5BA90A7AD015CDF78F24F5E6607D58A9E65C029A47F38F2B7",
+  "size_bytes": 184140,
+  "level": "Level1_Basic_MQL4_and_OOP",
+  "lesson": "Passing parameter",
+  "wix_dl_slug": "passing-parameter",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level1_Basic_MQL4_and_OOP/01_Basic/11_Functions and Parameters/02_Passing parameter/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.053Z",
+  "record_path": "hashes/Level1_Basic_MQL4_and_OOP/passing-parameter.sha256.json"
+}

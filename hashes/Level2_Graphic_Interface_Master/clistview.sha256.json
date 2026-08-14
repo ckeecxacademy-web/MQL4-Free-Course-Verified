@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "CListView.zip",
+  "algorithm": "SHA-256",
+  "sha256": "1F6371DD46CBDB8FD1A807456B1B8FF4C11D2DF47BD249BD24A6F64A2EE2E6A3",
+  "size_bytes": 181787,
+  "level": "Level2_Graphic_Interface_Master",
+  "lesson": "CListView",
+  "wix_dl_slug": "clistview",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level2_Graphic_Interface_Master/05_MQLGraphicClass/02_Controls Class/13_CListView/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.063Z",
+  "record_path": "hashes/Level2_Graphic_Interface_Master/clistview.sha256.json"
+}

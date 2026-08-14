@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "CAppDialog.zip",
+  "algorithm": "SHA-256",
+  "sha256": "3160B47EB32E0C5291D8937DA55BA6F48B8FCCC638D753E486113574BB223E7A",
+  "size_bytes": 181442,
+  "level": "Level2_Graphic_Interface_Master",
+  "lesson": "CAppDialog",
+  "wix_dl_slug": "cappdialog",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level2_Graphic_Interface_Master/05_MQLGraphicClass/02_Controls Class/11_CAppDialog/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.062Z",
+  "record_path": "hashes/Level2_Graphic_Interface_Master/cappdialog.sha256.json"
+}

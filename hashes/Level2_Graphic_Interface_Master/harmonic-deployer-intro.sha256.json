@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Harmonic Deployer intro.zip",
+  "algorithm": "SHA-256",
+  "sha256": "B618B9774E41FD90234124464ACD1C773745DF1A18295516C3503EAA6FBD5AED",
+  "size_bytes": 694641,
+  "level": "Level2_Graphic_Interface_Master",
+  "lesson": "Harmonic Deployer intro",
+  "wix_dl_slug": "harmonic-deployer-intro",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level2_Graphic_Interface_Master/10_Mini project/01_Harmonic Deployer/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.075Z",
+  "record_path": "hashes/Level2_Graphic_Interface_Master/harmonic-deployer-intro.sha256.json"
+}

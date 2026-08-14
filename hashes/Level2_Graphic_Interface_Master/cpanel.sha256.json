@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "CPanel.zip",
+  "algorithm": "SHA-256",
+  "sha256": "48023247BC32D46CFF6862AB937D75DB664ADCD93E1D0F258CD0A6448F4E2988",
+  "size_bytes": 181384,
+  "level": "Level2_Graphic_Interface_Master",
+  "lesson": "CPanel",
+  "wix_dl_slug": "cpanel",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level2_Graphic_Interface_Master/05_MQLGraphicClass/02_Controls Class/08_CPanel/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.061Z",
+  "record_path": "hashes/Level2_Graphic_Interface_Master/cpanel.sha256.json"
+}

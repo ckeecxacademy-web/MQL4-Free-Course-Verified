@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "break and continue Statements.zip",
+  "algorithm": "SHA-256",
+  "sha256": "95EDBBF96EECDD83BCE530ACCAA9F96750EB80791CF84E6DE96177F12F94E074",
+  "size_bytes": 179008,
+  "level": "Level1_Basic_MQL4_and_OOP",
+  "lesson": "break and continue Statements",
+  "wix_dl_slug": "break-and-continue-statements",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level1_Basic_MQL4_and_OOP/01_Basic/10_Loops and Iterations/04_break and continue Statements/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.052Z",
+  "record_path": "hashes/Level1_Basic_MQL4_and_OOP/break-and-continue-statements.sha256.json"
+}

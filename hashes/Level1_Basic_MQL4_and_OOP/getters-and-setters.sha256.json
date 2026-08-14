@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Getters and Setters.zip",
+  "algorithm": "SHA-256",
+  "sha256": "4D524484DDCA9E0C7EAFB7D888D14E26D3528D96F402947FD1DE40647640FB9F",
+  "size_bytes": 184914,
+  "level": "Level1_Basic_MQL4_and_OOP",
+  "lesson": "Getters and Setters",
+  "wix_dl_slug": "getters-and-setters",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level1_Basic_MQL4_and_OOP/02_Advance/04_OOP in MQL4/06_Getters and Setters/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.056Z",
+  "record_path": "hashes/Level1_Basic_MQL4_and_OOP/getters-and-setters.sha256.json"
+}

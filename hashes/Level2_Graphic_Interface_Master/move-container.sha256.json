@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Move Container.zip",
+  "algorithm": "SHA-256",
+  "sha256": "4C3626CCD77D6A86E61254D75FA24C03D08ED5FA73957219C572BA1238ECDF95",
+  "size_bytes": 384451,
+  "level": "Level2_Graphic_Interface_Master",
+  "lesson": "Move Container",
+  "wix_dl_slug": "move-container",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level2_Graphic_Interface_Master/07_CKE Graphical Class/03_Move Container/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.067Z",
+  "record_path": "hashes/Level2_Graphic_Interface_Master/move-container.sha256.json"
+}

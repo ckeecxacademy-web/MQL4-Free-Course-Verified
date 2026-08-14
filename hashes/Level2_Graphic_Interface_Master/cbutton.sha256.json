@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "CButton.zip",
+  "algorithm": "SHA-256",
+  "sha256": "BC1EC6010A845CB7D8D6C0E2E8BA6454A29AF14CA89847CA2C23156E4DDC79DE",
+  "size_bytes": 186323,
+  "level": "Level2_Graphic_Interface_Master",
+  "lesson": "CButton",
+  "wix_dl_slug": "cbutton",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level2_Graphic_Interface_Master/05_MQLGraphicClass/02_Controls Class/06_CButton/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.060Z",
+  "record_path": "hashes/Level2_Graphic_Interface_Master/cbutton.sha256.json"
+}

@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Complex object.zip",
+  "algorithm": "SHA-256",
+  "sha256": "BB41AD4B09552F4D47516FEAD8CF47F7BA902A202DBB7D5A26B3F01510B57C49",
+  "size_bytes": 184120,
+  "level": "Level2_Graphic_Interface_Master",
+  "lesson": "Complex object",
+  "wix_dl_slug": "complex-object",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level2_Graphic_Interface_Master/03_Native Graphical Objects/04_Complex object/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.059Z",
+  "record_path": "hashes/Level2_Graphic_Interface_Master/complex-object.sha256.json"
+}

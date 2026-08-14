@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "RR Calculator _Intro.zip",
+  "algorithm": "SHA-256",
+  "sha256": "1214BC076A9DEAD05576FDB5B38CD6DACC3459CB6F64D214B84AA5F6D1BD7FBB",
+  "size_bytes": 587791,
+  "level": "Level2_Graphic_Interface_Master",
+  "lesson": "RR Calculator _Intro",
+  "wix_dl_slug": "rr-calculator-intro",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level2_Graphic_Interface_Master/10_Mini project/05_RR Calculator/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.077Z",
+  "record_path": "hashes/Level2_Graphic_Interface_Master/rr-calculator-intro.sha256.json"
+}

@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Simple Win Object.zip",
+  "algorithm": "SHA-256",
+  "sha256": "1B4743E114F832F7435683C3B9A93E47EE8867A8CC531510EAA82A4E72442C25",
+  "size_bytes": 199603,
+  "level": "Level2_Graphic_Interface_Master",
+  "lesson": "Simple Win Object",
+  "wix_dl_slug": "simple-win-object",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level2_Graphic_Interface_Master/03_Native Graphical Objects/03_Simple Object/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.058Z",
+  "record_path": "hashes/Level2_Graphic_Interface_Master/simple-win-object.sha256.json"
+}

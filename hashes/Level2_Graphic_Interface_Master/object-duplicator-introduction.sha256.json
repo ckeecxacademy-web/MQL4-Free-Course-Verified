@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Object Duplicator introduction.zip",
+  "algorithm": "SHA-256",
+  "sha256": "1B686CFE09FA8D4092763FD9AACB22D97B4040084951A9826C1FCA1B09336DA6",
+  "size_bytes": 315549,
+  "level": "Level2_Graphic_Interface_Master",
+  "lesson": "Object Duplicator introduction",
+  "wix_dl_slug": "object-duplicator-introduction",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level2_Graphic_Interface_Master/10_Mini project/04_Object Duplicator/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.076Z",
+  "record_path": "hashes/Level2_Graphic_Interface_Master/object-duplicator-introduction.sha256.json"
+}

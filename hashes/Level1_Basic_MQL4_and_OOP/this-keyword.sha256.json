@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "This keyword.zip",
+  "algorithm": "SHA-256",
+  "sha256": "9885F360C2B65591D679A159D9C7DA5768A6A08FB49100E98F970844297A0C7C",
+  "size_bytes": 179890,
+  "level": "Level1_Basic_MQL4_and_OOP",
+  "lesson": "This keyword",
+  "wix_dl_slug": "this-keyword",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level1_Basic_MQL4_and_OOP/02_Advance/04_OOP in MQL4/07_This keyword/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.056Z",
+  "record_path": "hashes/Level1_Basic_MQL4_and_OOP/this-keyword.sha256.json"
+}

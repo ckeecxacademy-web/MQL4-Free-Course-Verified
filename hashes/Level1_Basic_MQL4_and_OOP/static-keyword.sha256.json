@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Static Keyword.zip",
+  "algorithm": "SHA-256",
+  "sha256": "7D8000017024A55E11625D4825B96C8A7B16068A420917F8033556801CEE38F3",
+  "size_bytes": 181505,
+  "level": "Level1_Basic_MQL4_and_OOP",
+  "lesson": "Static Keyword",
+  "wix_dl_slug": "static-keyword",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level1_Basic_MQL4_and_OOP/02_Advance/04_OOP in MQL4/11_Static Keyword/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.057Z",
+  "record_path": "hashes/Level1_Basic_MQL4_and_OOP/static-keyword.sha256.json"
+}

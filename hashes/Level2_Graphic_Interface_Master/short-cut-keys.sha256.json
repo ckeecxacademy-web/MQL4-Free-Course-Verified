@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Short cut keys.zip",
+  "algorithm": "SHA-256",
+  "sha256": "15374BAD201B37AF4AFD65E50696B2ED3835CB04AEF0650E289C0D5FAFC10AE1",
+  "size_bytes": 718787,
+  "level": "Level2_Graphic_Interface_Master",
+  "lesson": "Short cut keys",
+  "wix_dl_slug": "short-cut-keys",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level2_Graphic_Interface_Master/08_Useful Technic/12_Short cut keys/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.072Z",
+  "record_path": "hashes/Level2_Graphic_Interface_Master/short-cut-keys.sha256.json"
+}

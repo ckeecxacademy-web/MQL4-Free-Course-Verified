@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Delete all object and comment.zip",
+  "algorithm": "SHA-256",
+  "sha256": "8DD366A85823EDEBBD6B09600CA537E6EC355853983DEF20240AD3BEE87CD3EF",
+  "size_bytes": 184615,
+  "level": "Level2_Graphic_Interface_Master",
+  "lesson": "Delete all object and comment",
+  "wix_dl_slug": "delete-all-object-and-comment",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level2_Graphic_Interface_Master/08_Useful Technic/02_Delete all object and comment/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.070Z",
+  "record_path": "hashes/Level2_Graphic_Interface_Master/delete-all-object-and-comment.sha256.json"
+}

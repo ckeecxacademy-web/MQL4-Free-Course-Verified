@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "String Data Type.zip",
+  "algorithm": "SHA-256",
+  "sha256": "18805D8A625F31F61411AF39107412C2D8DDE433E491F7D5E8B56ADC103A05AE",
+  "size_bytes": 189461,
+  "level": "Level1_Basic_MQL4_and_OOP",
+  "lesson": "String Data Type",
+  "wix_dl_slug": "string-data-type",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level1_Basic_MQL4_and_OOP/01_Basic/07_Variable and Data Types/02_String Data Type/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.046Z",
+  "record_path": "hashes/Level1_Basic_MQL4_and_OOP/string-data-type.sha256.json"
+}

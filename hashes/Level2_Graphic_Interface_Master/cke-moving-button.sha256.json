@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "CKE_Moving_Button.zip",
+  "algorithm": "SHA-256",
+  "sha256": "3EF7C88BABDFECA6645F66196E2B4875D6196C23F96E8BFBED134B8953C47DFA",
+  "size_bytes": 515393,
+  "level": "Level2_Graphic_Interface_Master",
+  "lesson": "CKE_Moving_Button",
+  "wix_dl_slug": "cke-moving-button",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level2_Graphic_Interface_Master/07_CKE Graphical Class/02_CKE_Moving_Button/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.066Z",
+  "record_path": "hashes/Level2_Graphic_Interface_Master/cke-moving-button.sha256.json"
+}

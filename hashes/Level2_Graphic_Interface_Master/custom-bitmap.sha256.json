@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Custom Bitmap.zip",
+  "algorithm": "SHA-256",
+  "sha256": "CC56DF1CE49ACEAFE1DBEC472C40301A7B1E509197D5C5525F4F6674D0C80ED4",
+  "size_bytes": 181139,
+  "level": "Level2_Graphic_Interface_Master",
+  "lesson": "Custom Bitmap",
+  "wix_dl_slug": "custom-bitmap",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level2_Graphic_Interface_Master/05_MQLGraphicClass/02_Controls Class/20_Custom Bitmap/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.064Z",
+  "record_path": "hashes/Level2_Graphic_Interface_Master/custom-bitmap.sha256.json"
+}

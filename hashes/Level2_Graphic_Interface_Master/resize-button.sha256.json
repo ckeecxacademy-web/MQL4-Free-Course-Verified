@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Resize button.zip",
+  "algorithm": "SHA-256",
+  "sha256": "D2F4B791BA1877D12D2ACD110E7C809B1ECF01D8D33BFB7128D2EC01CFED169C",
+  "size_bytes": 713459,
+  "level": "Level2_Graphic_Interface_Master",
+  "lesson": "Resize button",
+  "wix_dl_slug": "resize-button",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level2_Graphic_Interface_Master/08_Useful Technic/13_Resize button/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.073Z",
+  "record_path": "hashes/Level2_Graphic_Interface_Master/resize-button.sha256.json"
+}

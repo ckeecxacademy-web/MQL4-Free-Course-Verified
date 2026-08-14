@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Recall object position.zip",
+  "algorithm": "SHA-256",
+  "sha256": "FB1CFC98EC428D30912D02DB7EAB20D218157EF811DFFF89364C4F6FFB9FB4A2",
+  "size_bytes": 850783,
+  "level": "Level2_Graphic_Interface_Master",
+  "lesson": "Recall object position",
+  "wix_dl_slug": "recall-object-position",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level2_Graphic_Interface_Master/08_Useful Technic/06_Recall object position/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.071Z",
+  "record_path": "hashes/Level2_Graphic_Interface_Master/recall-object-position.sha256.json"
+}

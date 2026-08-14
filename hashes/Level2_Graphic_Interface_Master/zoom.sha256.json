@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Zoom.zip",
+  "algorithm": "SHA-256",
+  "sha256": "6DAC71ECB60A5B74A7960C2A739AD0A99C0A30AC58F5234A848023C2737D9949",
+  "size_bytes": 190651,
+  "level": "Level2_Graphic_Interface_Master",
+  "lesson": "Zoom",
+  "wix_dl_slug": "zoom",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level2_Graphic_Interface_Master/05_MQLGraphicClass/03_CCanvas/12_Zoom/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.065Z",
+  "record_path": "hashes/Level2_Graphic_Interface_Master/zoom.sha256.json"
+}

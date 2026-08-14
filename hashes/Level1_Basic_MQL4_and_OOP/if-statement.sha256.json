@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "if Statement.zip",
+  "algorithm": "SHA-256",
+  "sha256": "FAD6CC94DA126B49CF5EDA15150C33817FE51B4997A6FD6197F8D95240DC7EE7",
+  "size_bytes": 182615,
+  "level": "Level1_Basic_MQL4_and_OOP",
+  "lesson": "if Statement",
+  "wix_dl_slug": "if-statement",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level1_Basic_MQL4_and_OOP/01_Basic/09_Conditional Statements/01_if Statement/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.050Z",
+  "record_path": "hashes/Level1_Basic_MQL4_and_OOP/if-statement.sha256.json"
+}

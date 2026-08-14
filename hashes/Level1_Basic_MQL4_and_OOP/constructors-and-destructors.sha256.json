@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Constructors and Destructors.zip",
+  "algorithm": "SHA-256",
+  "sha256": "0813D305C4CC22CFC79AEFF9708878B010DAA9B768FA565BAC130B266CAAB7A9",
+  "size_bytes": 197574,
+  "level": "Level1_Basic_MQL4_and_OOP",
+  "lesson": "Constructors and Destructors",
+  "wix_dl_slug": "constructors-and-destructors",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level1_Basic_MQL4_and_OOP/02_Advance/04_OOP in MQL4/05_Constructors and Destructors/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.055Z",
+  "record_path": "hashes/Level1_Basic_MQL4_and_OOP/constructors-and-destructors.sha256.json"
+}

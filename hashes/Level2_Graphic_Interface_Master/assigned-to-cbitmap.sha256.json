@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Assigned to CBitmap.zip",
+  "algorithm": "SHA-256",
+  "sha256": "6F74E5377220410C484DFDC7E57377A2C3323810FF95CC86CFB576984534F56E",
+  "size_bytes": 201926,
+  "level": "Level2_Graphic_Interface_Master",
+  "lesson": "Assigned to CBitmap",
+  "wix_dl_slug": "assigned-to-cbitmap",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level2_Graphic_Interface_Master/05_MQLGraphicClass/03_CCanvas/04_Assigned to CBitmap/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.065Z",
+  "record_path": "hashes/Level2_Graphic_Interface_Master/assigned-to-cbitmap.sha256.json"
+}

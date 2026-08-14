@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Introduction to variable.zip",
+  "algorithm": "SHA-256",
+  "sha256": "F174204B8D35829116A4A908C79EE9C6FD5C00BAE1CA10145DF3155509CAEB0F",
+  "size_bytes": 186620,
+  "level": "Level1_Basic_MQL4_and_OOP",
+  "lesson": "Introduction to variable",
+  "wix_dl_slug": "introduction-to-variable",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level1_Basic_MQL4_and_OOP/01_Basic/07_Variable and Data Types/00_Introduction to variable/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.045Z",
+  "record_path": "hashes/Level1_Basic_MQL4_and_OOP/introduction-to-variable.sha256.json"
+}

@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Date and Time Data Types.zip",
+  "algorithm": "SHA-256",
+  "sha256": "275230922DD047611287048713ED351170925D16EC03E366E53A3A27A6C09204",
+  "size_bytes": 187409,
+  "level": "Level1_Basic_MQL4_and_OOP",
+  "lesson": "Date and Time Data Types",
+  "wix_dl_slug": "date-and-time-data-types",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level1_Basic_MQL4_and_OOP/01_Basic/07_Variable and Data Types/04_Date and Time Data Types/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.047Z",
+  "record_path": "hashes/Level1_Basic_MQL4_and_OOP/date-and-time-data-types.sha256.json"
+}

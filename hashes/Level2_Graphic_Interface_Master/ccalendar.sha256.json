@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "CCalendar.zip",
+  "algorithm": "SHA-256",
+  "sha256": "9C42963E41AA9FF746745E313C400FF4525D6B2CED3F930911CF08F3ADA2A00C",
+  "size_bytes": 188362,
+  "level": "Level2_Graphic_Interface_Master",
+  "lesson": "CCalendar",
+  "wix_dl_slug": "ccalendar",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level2_Graphic_Interface_Master/05_MQLGraphicClass/02_Controls Class/17_CCalendar/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.063Z",
+  "record_path": "hashes/Level2_Graphic_Interface_Master/ccalendar.sha256.json"
+}

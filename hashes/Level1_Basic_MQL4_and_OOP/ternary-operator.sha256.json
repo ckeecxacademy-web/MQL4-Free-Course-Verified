@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Ternary operator.zip",
+  "algorithm": "SHA-256",
+  "sha256": "CF6A19A838D4EC9730C42DFB836B1752EAEE73A9329CAE6158DEC5809224E642",
+  "size_bytes": 178789,
+  "level": "Level1_Basic_MQL4_and_OOP",
+  "lesson": "Ternary operator",
+  "wix_dl_slug": "ternary-operator",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level1_Basic_MQL4_and_OOP/01_Basic/08_Operators and Expressions/08_Ternary operator/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.049Z",
+  "record_path": "hashes/Level1_Basic_MQL4_and_OOP/ternary-operator.sha256.json"
+}

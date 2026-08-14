@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "CKE_AppDialog.zip",
+  "algorithm": "SHA-256",
+  "sha256": "C9553D8970E352B2465A6A0E5B68B8EC43F67929A828185B414359C2D277F87B",
+  "size_bytes": 506325,
+  "level": "Level2_Graphic_Interface_Master",
+  "lesson": "CKE_AppDialog",
+  "wix_dl_slug": "cke-appdialog",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level2_Graphic_Interface_Master/07_CKE Graphical Class/05_CKE_AppDialog/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.068Z",
+  "record_path": "hashes/Level2_Graphic_Interface_Master/cke-appdialog.sha256.json"
+}

@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "if-in function.zip",
+  "algorithm": "SHA-256",
+  "sha256": "FDE02177C41922958CCEA92D1676E221B7DCF90CEFD3A358E93C07393C5C082C",
+  "size_bytes": 180220,
+  "level": "Level1_Basic_MQL4_and_OOP",
+  "lesson": "if-in function",
+  "wix_dl_slug": "if-in-function",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level1_Basic_MQL4_and_OOP/01_Basic/09_Conditional Statements/02_if-in function/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.050Z",
+  "record_path": "hashes/Level1_Basic_MQL4_and_OOP/if-in-function.sha256.json"
+}

@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Convert Coordinate.zip",
+  "algorithm": "SHA-256",
+  "sha256": "1FC94F8CF410F6C49B0BC5E94705322549C9FD811B57668A6FCE370113A3DFF4",
+  "size_bytes": 183061,
+  "level": "Level2_Graphic_Interface_Master",
+  "lesson": "Convert Coordinate",
+  "wix_dl_slug": "convert-coordinate",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level2_Graphic_Interface_Master/03_Native Graphical Objects/06_Convert Coordinate/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.059Z",
+  "record_path": "hashes/Level2_Graphic_Interface_Master/convert-coordinate.sha256.json"
+}

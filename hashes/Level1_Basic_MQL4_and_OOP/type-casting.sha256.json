@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Type Casting.zip",
+  "algorithm": "SHA-256",
+  "sha256": "820924CBA9AA9E80CF894842679FAC226FD7F0A4ECE1DC91123414E0EF60E00A",
+  "size_bytes": 180021,
+  "level": "Level1_Basic_MQL4_and_OOP",
+  "lesson": "Type Casting",
+  "wix_dl_slug": "type-casting",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level1_Basic_MQL4_and_OOP/01_Basic/07_Variable and Data Types/09_Type Casting/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.048Z",
+  "record_path": "hashes/Level1_Basic_MQL4_and_OOP/type-casting.sha256.json"
+}

@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "CContainer.zip",
+  "algorithm": "SHA-256",
+  "sha256": "3BAFDE4F7AC2274BD7C9DFD0660221B2F763DEE23D63637503B95D3F8292F082",
+  "size_bytes": 181946,
+  "level": "Level2_Graphic_Interface_Master",
+  "lesson": "CContainer",
+  "wix_dl_slug": "ccontainer",
+  "source": "Final/EVG",
+  "source_folder": "D:/CKE/CKE_Project/CKE_Product/MQL4Course/Level2_Graphic_Interface_Master/05_MQLGraphicClass/02_Controls Class/09_CContainer/VDO export/Final/EVG",
+  "observed_at_utc": "2026-08-14T14:43:01.061Z",
+  "record_path": "hashes/Level2_Graphic_Interface_Master/ccontainer.sha256.json"
+}
