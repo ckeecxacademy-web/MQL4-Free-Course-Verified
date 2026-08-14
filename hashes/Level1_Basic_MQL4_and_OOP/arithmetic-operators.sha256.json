@@ -1,0 +1,13 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "Arithmetic Operators.zip",
+  "algorithm": "SHA-256",
+  "sha256": "9933FE32F9A2B0FC8ADCAD0D7F749D32F48DE323FA36C501CC49B3E1FA709C3C",
+  "size_bytes": 179155,
+  "level": "Level1_Basic_MQL4_and_OOP",
+  "lesson": "Arithmetic Operators",
+  "wix_dl_slug": "arithmetic-operators",
+  "source": "Final/EVG",
+  "record_path": "hashes/Level1_Basic_MQL4_and_OOP/arithmetic-operators.sha256.json",
+  "observed_at_utc": "2026-08-14T11:21:59.9717792Z"
+}
