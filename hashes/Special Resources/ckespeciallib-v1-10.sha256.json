@@ -1,0 +1,14 @@
+{
+  "schema": "ckeecx-zip-integrity-v1",
+  "file": "CKESpecialLib v1.10.zip",
+  "algorithm": "SHA-256",
+  "sha256": "812E45BAF6B82C8E84B7353A070F538087B218AA47903906131A8BC2A6CE168A",
+  "size_bytes": 4568980,
+  "level": "Special Resources",
+  "lesson": "CKESpecialLib v1.10",
+  "wix_dl_slug": "ckespeciallib-v1-10",
+  "source": "Special Resources",
+  "resource_kind": "standalone-zip",
+  "observed_at_utc": "2026-08-14T15:41:44.136Z",
+  "record_path": "hashes/Special Resources/ckespeciallib-v1-10.sha256.json"
+}
