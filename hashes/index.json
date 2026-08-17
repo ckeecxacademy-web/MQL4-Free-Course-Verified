@@ -1,6 +1,6 @@
 {
   "schema": "ckeecx-zip-integrity-index-v1",
-  "generated_at_utc": "2026-08-14T14:44:09.781Z",
+  "generated_at_utc": "2026-08-17T14:27:48.9668964Z",
   "source": "Final/EVG",
   "algorithm": "SHA-256",
   "records": [
@@ -669,6 +669,15 @@
       "sha256": "86E522EF1D7FD95AA4891F801B692DD5A4666BEF914DAD6C578853433B15E986",
       "size_bytes": 538231,
       "record_path": "hashes/Level2_Graphic_Interface_Master/crosshair-info-introduction.sha256.json"
+    },
+    {
+      "file": "MiniChart_Main.zip",
+      "lesson": "Mini Chart Introduction",
+      "level": "Level2_Graphic_Interface_Master",
+      "wix_dl_slug": "mini-chart-introduction",
+      "sha256": "C482E16297A4793D4BDF88A2F6080AAD90DE67C6E15EAB69B24E2FA8D57DA739",
+      "size_bytes": 358653,
+      "record_path": "hashes/Level2_Graphic_Interface_Master/mini-chart-introduction.sha256.json"
     }
   ]
 }
